@@ -1,5 +1,7 @@
-#include<stdio.h>
-int main(void)
+#inlude<stdio.h>
+int mai(void)
 {
-printf("hello world");
+    int a;
+    scanf("%d",&a)
+    printf("%d",a+3);
 }
